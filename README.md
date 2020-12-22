@@ -18,21 +18,7 @@ amigo baboso is a development environment focused on modding games and applicati
 
 # Links
 
-  * [Website](https://www.amigobaboso.org)
-  * [Forum](https://forum.amigobaboso.org)
-  * [Forum (alternate)](https://fearlessrevolution.com/index.php)
-  * [Wiki](https://wiki.amigobaboso.org/index.php?title=Main_Page)
-
-## Social Media
-
-  * [Reddit](https://reddit.com/r/amigobaboso)
-  * [Twitter](https://twitter.com/_amigobaboso)
-
-## Donate
-
-  * [Patreon](https://www.patreon.com/amigobaboso)
-  * [PayPal](https://www.paypal.com/xclick/business=dark_byte%40hotmail.com&no_note=1&tax=0&lc=US)
-
+  * [Original Environment](https://github.com/cheat-engine/cheat-engine)
 
 ## Build Instructions
 
